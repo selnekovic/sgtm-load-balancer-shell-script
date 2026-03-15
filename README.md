@@ -13,6 +13,6 @@ Bash script to automate **custom domain mapping via HTTPS Load Balancer** when d
 ---
 
 ## Blog Article
-[Server-side GTM Domain Mapping with Load Balancer](https://selnekovic.com/server-side-gtm-domain-mapping-with-load-balancer/)  
+[Server-side GTM Domain Mapping with Load Balancer](https://selnekovic.com/blog/sgtm-domain-mapping-load-balancer/)  
 
 
