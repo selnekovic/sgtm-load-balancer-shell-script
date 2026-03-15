@@ -29,10 +29,8 @@ You’ll be prompted for:
 
 Confirm, then choose **1** (new load balancer) or **2** (add domain). Add the printed IP as an **A record** in your DNS for that subdomain.
 
-## License
+## License and references
 
-MIT — see [LICENSE](LICENSE). By [Julius Selnekovic](https://selnekovic.com).
-
-## Blog
-
-[Server-side GTM Domain Mapping with Load Balancer](https://selnekovic.com/blog/sgtm-domain-mapping-load-balancer/)
+- **Author:** [Julius Selnekovic](https://selnekovic.com)  
+- **License:** [MIT](LICENSE) 
+- **Article:** [Server-side GTM Domain Mapping with Load Balancer](https://selnekovic.com/blog/sgtm-domain-mapping-load-balancer/)
